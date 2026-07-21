@@ -64,14 +64,12 @@ dirty-document-denoising
 
 - 데이터 확인
 - 이미지 시각화
-- 이미지 전처리
-- Gaussian Blur 기반 복원
-- Median Blur 기반 복원
+- 이미지 전처리(Gaussian Blur/Median Blur) - 입력 이미지 선정
 - Convolutional AutoEncoder 구현
-- 모델 학습
+- 모델 학습 및 개선
 - RMSE / PSNR 평가
 - 결과 비교
-- 피드백 반영 및 모델 개선
+- 피드백 반영
 
 ---
 

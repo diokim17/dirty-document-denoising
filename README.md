@@ -40,9 +40,9 @@
 ```
 dirty-document-denoising
 │
-├── mission5_original.ipynb
+├── mission5_original.ipynb (최초 제출본)
 │    
-├── mission5_feedback_applied.ipynb
+├── mission5_feedback_applied.ipynb (피드백을 반영하여 개선한 최종 버전)
 │
 └── README.md
 ```
